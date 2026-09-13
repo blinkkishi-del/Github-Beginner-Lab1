@@ -5,7 +5,7 @@ namespace StudentProfile
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("Student Profile - Juan Dela Cruz");
+            MessageBox.Show("Student Profile - GitHub Beginner Lab.");
         }
     }
 }
